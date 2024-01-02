@@ -1,0 +1,5 @@
+recursive-exclude * __pycache__
+recursive-exclude * *.pyc
+recursive-exclude * *.pyo
+recursive-exclude * *.orig
+exclude src/PygamingTheSeleniumSystem/local.py
