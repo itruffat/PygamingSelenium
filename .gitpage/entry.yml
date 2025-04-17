@@ -1,0 +1,6 @@
+name: Gaming Selenium
+category: python-utility 
+skip: False
+description : | 
+  Using PyGaming, this library gives the user more power to interact with a selenium application and provide feedback. 
+  Useful when you are designing an application that either [A] needs user interaction to work (such as requiring passwords) or [B] is there to give you an alternative way to navigate a website experience.
